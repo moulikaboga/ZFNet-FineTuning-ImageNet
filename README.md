@@ -37,8 +37,8 @@ ZFNet-ImageNet-FineTuning/
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ZFNet-ImageNet-FineTuning.git
-   cd ZFNet-ImageNet-FineTuning
+   git clone https://github.com/moulikaboga/ZFNet-FineTuning-ImageNet.git
+   cd ZFNet-FineTuning-ImageNet
    ```
 
 2. Install dependencies:
