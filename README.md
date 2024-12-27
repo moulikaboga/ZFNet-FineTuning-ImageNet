@@ -13,12 +13,8 @@ Here’s the complete README file that you can directly paste into your GitHub r
 ```
 ZFNet-ImageNet-FineTuning/
 │
-├── model/
-│   ├── zfnet.py           # ZFNet model implementation
-│
-├── data/
-│   ├── sample_images/     # Placeholder for sample images (optional)
-│
+|── data/
+│   ├── soilpH_rgb1.csv    # CSV file containing RGB values with pH labels
 ├── notebooks/
 │   ├── visualization.ipynb  # Notebook for intermediate layer visualization
 │
