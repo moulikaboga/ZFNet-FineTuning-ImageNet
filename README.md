@@ -23,7 +23,7 @@ ZFNet-ImageNet-FineTuning/
 ```
 
 ## Link to download the dataset
-![Mini Imagenet Dataset](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz)
+[Mini Imagenet Dataset](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz)
 
 ## Prerequisites
 - Python 3.8 or higher
