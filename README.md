@@ -13,8 +13,6 @@ Here’s the complete README file that you can directly paste into your GitHub r
 ```
 ZFNet-ImageNet-FineTuning/
 │
-|── data/
-│   ├── soilpH_rgb1.csv    # CSV file containing RGB values with pH labels
 ├── notebooks/
 │   ├── visualization.ipynb  # Notebook for intermediate layer visualization
 │
@@ -26,6 +24,9 @@ ZFNet-ImageNet-FineTuning/
 │
 └── LICENSE                # License for the repository (optional)
 ```
+
+## Link to download the dataset
+![Mini Imagenet Dataset](https://s3.amazonaws.com/fast-ai-imageclas/imagenette2.tgz)
 
 ## Prerequisites
 - Python 3.8 or higher
