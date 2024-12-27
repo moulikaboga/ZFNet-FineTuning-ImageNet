@@ -56,7 +56,7 @@ Use the `visualization.ipynb` notebook to explore intermediate layer outputs. Yo
  
 
 Example visualization from Conv1 layer:  
-![Example Visualization](path/to/example-visualization.png)
+[Detailes Full Document in DL_Assignment(Final) Document](https://github.com/moulikaboga/ZFNet-FineTuning-ImageNet/blob/main/DL_Assignment(Final).pdf)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
