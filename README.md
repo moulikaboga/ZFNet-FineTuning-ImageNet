@@ -13,13 +13,15 @@ Here’s the complete README file that you can directly paste into your GitHub r
 ```
 ZFNet-ImageNet-FineTuning/
 │
-├── DeepLearning.ipynb     # Notebook for intermediate layer visualization and Main script for training and evaluation
+├── DL_Assignment(Final).pdf     # Project detailed documentation
 │
-├── requirements.txt       # List of required libraries
+├── DeepLearning.ipynb           # Notebook for intermediate layer visualization and Main script for training and evaluation
 │
-├── README.md              # Project documentation
+├── requirements.txt             # List of required libraries
 │
-└── LICENSE                # License for the repository (optional)
+├── README.md                    # Project documentation
+│
+└── LICENSE                      # License for the repository
 ```
 
 ## Link to download the dataset
